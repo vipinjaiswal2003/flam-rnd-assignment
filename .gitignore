@@ -1,0 +1,10 @@
+/.idea
+/.gradle
+/local.properties
+/.DS_Store
+/build
+/android/app/build
+/android/build
+/node_modules
+/web-viewer/node_modules
+/web-viewer/dist
